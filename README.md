@@ -1,2 +1,3 @@
-# BIT_Meeting_Notes
- Minutes from BIT officer meetings.
+# BIT Meeting Notes
+
+Minutes from BIT officer meetings.
